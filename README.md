@@ -1,4 +1,4 @@
-# Eder Oliveira Pereira
+# Éder de Oliveira Pereira
 
 Founder & Product Builder at CeoFranchising Ltda.
 
