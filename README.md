@@ -33,8 +33,9 @@ Tela Simulador de Pix aqui você resolve os calculos confuso de quanto e porque 
 <img width="1600" height="777" alt="image (83)" src="https://github.com/user-attachments/assets/8a1c02ae-69a7-40f4-affe-c5d2d7a014f2" />
 Tela Clima descubra onde terá enchente com nossa analise preditiva com IA 
 <img width="1600" height="784" alt="image (84)" src="https://github.com/user-attachments/assets/48286460-18cd-479a-a4a8-c85db49c058a" />
-Tela 
+Tela Atlas pulse onde a vaga de emprego chegara na sua Região
 <img width="1600" height="789" alt="image (85)" src="https://github.com/user-attachments/assets/60adb6a4-b71f-427b-a443-88b67f95e862" />
+
 
 ## Atualmente estudando
 
