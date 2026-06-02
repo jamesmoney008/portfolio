@@ -1,41 +1,66 @@
 # Eder Oliveira Pereira
 
-Founder & Product Builder
+Founder & Product Builder at CeoFranchising Ltda.
 
-## Especialidades
+Building AI-powered products, SaaS platforms, automation ecosystems and cybersecurity solutions focused on real-world impact.
 
-- Artificial Intelligence
-- Cybersecurity
-- SaaS Platforms
-- Automation
-- Multi-Agent Systems
+## Core Expertise
 
-## Produtos
+* Artificial Intelligence
+* Cybersecurity
+* SaaS Platforms
+* Automation
+* Multi-Agent Systems
+* Data Intelligence
 
-- Cérebro AI
-- AtlasBR
-- Vyra Pro Desktop
-- Vyra Pro PWA
-- Whakathakas
-- Névora OS 
-- SaaS VEnture Club
+## Products & Platforms
 
-## Tecnologias
+### AtlasBR
 
-- Python
-- PostgreSQL
-- AI Agents
-- RAG
-- Vector Search
-- Cybersecurity
-- Cloud Infrastructure
+AI-powered intelligence ecosystem for news automation, predictive analytics, market intelligence and business insights.
 
-## Destaques
+### Cérebro AI
 
-- Portal AtlasBR
-- Plataforma Educacional Whakathakas
-- Vyra Pro AI
-- Cérebro AI com 16 agentes
+Multi-agent artificial intelligence platform with 16 specialized agents coordinated by a Chief AI Officer.
+
+### Vyra Pro Desktop
+
+Business intelligence and lead generation platform focused on automation and customer acquisition.
+
+### Vyra Pro PWA
+
+Progressive web application designed to provide AI-powered productivity and business tools.
+
+### Whakathakas
+
+Educational ecosystem connecting teachers, students and parents through AI-assisted learning experiences.
+
+### Névora OS
+
+Next-generation AI operating environment focused on intelligent workflows and digital assistance.
+
+### SaaS Venture Club
+
+Innovation hub for SaaS products, AI solutions and digital entrepreneurship.
+
+## Technology Stack
+
+* Python
+* PostgreSQL
+* Artificial Intelligence
+* AI Agents
+* RAG Architecture
+* Vector Databases
+* Cloud Infrastructure
+* Cybersecurity
+
+## Highlights
+
+* AtlasBR Intelligence Platform
+* Cérebro AI with 16 Agents
+* Vyra Pro Ecosystem
+* Whakathakas Educational Platform
+* AI & Cybersecurity Research
 
 
 
