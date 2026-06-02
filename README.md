@@ -43,3 +43,16 @@ Tela Atlas pulse onde a vaga de emprego chegara na sua Região
 - CS50 Cybersecurity
 - Security Operations
 - AI Security
+Todos os projetos se alimentam do Cérebro IA com 16 agentes, ( Atlas News AI ) ( Contract Reviewer ) ( Designer Agent ) entre outros   
+<img width="1403" height="764" alt="image" src="https://github.com/user-attachments/assets/34be7c84-32f1-423b-8246-cebb6c2bf8c0" />
+
+Temos um Chefe para organizar todos os Agentes: 
+
+<img width="1380" height="754" alt="image" src="https://github.com/user-attachments/assets/f33621ad-7988-43dc-926c-888b2d42e87c" />
+
+Reconhecemos mp3,mp4,imagem e trasncreve para texto facilitando todo aprendizado de maquina com reconhecimento por voz:
+
+<img width="1412" height="752" alt="image" src="https://github.com/user-attachments/assets/55cd9644-cf3a-4a27-af64-7188c40889af" />
+
+
+ 
