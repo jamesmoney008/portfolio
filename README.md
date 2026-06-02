@@ -90,6 +90,8 @@ E o Aluno aprende brincando: cada 100 estrelas acertando as atividades ganha 3 m
 
 e com isso o mesmo aprende todas as materias de uma forma ludica: 
 
+<img width="1406" height="781" alt="image" src="https://github.com/user-attachments/assets/64f259cb-1456-48d9-9870-c8bb8741b63c" />
+
 <img width="1406" height="781" alt="image" src="https://github.com/user-attachments/assets/991060f0-a938-43f3-9bc6-2967aa25e3e1" />
 
 
