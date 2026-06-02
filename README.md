@@ -56,5 +56,13 @@ Reconhecemos mp3,mp4,imagem e trasncreve para texto facilitando todo aprendizado
 
 <img width="1412" height="752" alt="image" src="https://github.com/user-attachments/assets/55cd9644-cf3a-4a27-af64-7188c40889af" />
 
+Atualmente com a Plataforma Vyra Pro Desktop atuamos em proporcionar o beneficio para Empresas com menor custo em Tráfego Pago:
+https://vyraleads.pro 
+
+<img width="1387" height="781" alt="image" src="https://github.com/user-attachments/assets/9154e593-e2a0-4214-87db-6c93824080f9" />
+
+ Atualmente contamos com uma base de dados interessante de seguimentação no Brasil: 
 
  
+ <img width="1394" height="332" alt="image" src="https://github.com/user-attachments/assets/66ea6eee-316d-4d53-aa8f-585950c506ca" />
+
