@@ -12,13 +12,13 @@ Founder & Product Builder
 
 ## Produtos
 
-- AtlasBR
-- Vyra Pro AI
-- Whakathakas
-- Névora AI
 - Cérebro AI
-- Chief AI Officer
-- Chief Security Officer
+- AtlasBR
+- Vyra Pro Desktop
+- Vyra Pro PWA
+- Whakathakas
+- Névora OS 
+- SaaS VEnture Club
 
 ## Tecnologias
 
