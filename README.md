@@ -80,5 +80,17 @@ O professor tem como criar aula para semana, ou bimestre apenas com seu curricul
 
 <img width="1383" height="770" alt="image" src="https://github.com/user-attachments/assets/16c5455f-43d6-493a-bdf8-d228c135a999" />
 
+Para os Pais painel completo de periodo do seu filho em Atividades com Relatórios completos:
+
+<img width="908" height="688" alt="image" src="https://github.com/user-attachments/assets/e89592fc-e165-49f9-9a7b-d78fb2c668dd" />
+
+E o Aluno aprende brincando: cada 100 estrelas acertando as atividades ganha 3 minutos para jogar dentro da plataforma: 
+
+<img width="1375" height="680" alt="image" src="https://github.com/user-attachments/assets/ea5d5dc5-bf2b-464d-adc6-68607051b5e7" />
+
+e com isso o mesmo aprende todas as materias de uma forma ludica: 
+
+<img width="1406" height="781" alt="image" src="https://github.com/user-attachments/assets/991060f0-a938-43f3-9bc6-2967aa25e3e1" />
+
 
 
