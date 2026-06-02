@@ -22,8 +22,19 @@ Founder at CeoFranchising Ltda.
 - Cérebro Ai
 - Chief AI Officer
 - Chief Security Officer
-<img width="1600" height="769" alt="image (81)" src="https://github.com/user-attachments/assets/00526c99-3569-4dc9-b8fa-c6945e8d7159" />
 
+AtlasBR.org ( Portal ) Rss,Sitemap
+Tela Inicial
+<img width="1600" height="769" alt="image (81)" src="https://github.com/user-attachments/assets/00526c99-3569-4dc9-b8fa-c6945e8d7159" />
+Função: 
+Atlas Radar encontre o produto mais vendido no momento em marketingplace ( TikTok, Amazon, Mercado Livre e Shopee )
+<img width="1600" height="774" alt="image (82)" src="https://github.com/user-attachments/assets/d41e0a87-da7e-4e68-99a9-9f9ee5618173" />
+Tela Simulador de Pix aqui você resolve os calculos confuso de quanto e porque custa: 
+<img width="1600" height="777" alt="image (83)" src="https://github.com/user-attachments/assets/8a1c02ae-69a7-40f4-affe-c5d2d7a014f2" />
+Tela Clima descubra onde terá enchente com nossa analise preditiva com IA 
+<img width="1600" height="784" alt="image (84)" src="https://github.com/user-attachments/assets/48286460-18cd-479a-a4a8-c85db49c058a" />
+Tela 
+<img width="1600" height="789" alt="image (85)" src="https://github.com/user-attachments/assets/60adb6a4-b71f-427b-a443-88b67f95e862" />
 
 ## Atualmente estudando
 
