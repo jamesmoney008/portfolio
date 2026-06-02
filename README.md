@@ -66,3 +66,19 @@ https://vyraleads.pro
  
  <img width="1394" height="332" alt="image" src="https://github.com/user-attachments/assets/66ea6eee-316d-4d53-aa8f-585950c506ca" />
 
+Conseguimos Geolocalizar o individuo por várias fonte de dados em todo territorio Nacional: Nosso sistema B2B 
+
+<img width="1106" height="630" alt="image" src="https://github.com/user-attachments/assets/dad2c7d7-7663-4552-9135-e9266b050e28" />
+
+Com isso o sistema ganhou força onde vimos uma demanda enorme na educação e como atuar foi ai que inicio o produto Whakathakas uma plataforma voltada para Professores, Pias e Alunos: 
+
+https://whakathakas.site
+
+<img width="1408" height="764" alt="image" src="https://github.com/user-attachments/assets/3018c225-1ad4-491c-9cc6-65d2c54b0db0" />
+
+O professor tem como criar aula para semana, ou bimestre apenas com seu curriculo da educação com poucos clieques: 
+
+<img width="1383" height="770" alt="image" src="https://github.com/user-attachments/assets/16c5455f-43d6-493a-bdf8-d228c135a999" />
+
+
+
