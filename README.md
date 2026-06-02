@@ -24,6 +24,7 @@ Founder at CeoFranchising Ltda.
 - Chief Security Officer
 
 AtlasBR.org ( Portal ) Rss,Sitemap
+
 Tela Inicial
 <img width="1600" height="769" alt="image (81)" src="https://github.com/user-attachments/assets/00526c99-3569-4dc9-b8fa-c6945e8d7159" />
 Função: 
